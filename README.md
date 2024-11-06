@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Adityakumar1283
-- 👀 I’m interested in Wedevelopment
-- 🌱 I’m currently learning MERN
+- 👋 Hi, I’m @Adityakumar
+- 👀 I’m interested in Webdevelopment
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Any MERN Project
 - 📫 How to reach me ak6101282@gmail.com
 - 😄 Pronouns: ...
